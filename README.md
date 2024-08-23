@@ -1,4 +1,4 @@
-### Olá meu nome é João Paulo 🖐
+### Olá, meu nome é João Paulo 🖐
 - 📚Estou estudando Java
 - 📫Email para contato: jplima595@gmmail.com 
 
