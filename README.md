@@ -7,7 +7,7 @@
 
 ## tecnologias que uso no meu dia
 
-[![My Skills](https://skillicons.dev/icons?i=py,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,postgres,vscode,windows)](https://skillicons.dev)
 
 <div style="diasplay: inline_block"><br/>
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
