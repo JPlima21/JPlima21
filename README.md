@@ -1,6 +1,6 @@
 ### Olá! Sou o João Paulo 🖐
 - 📚Estou estudando Java
-- 📫Email para contato: jplima595@gmmail.com 
+- 📫Email para contato: jpdesenvolvedor21@gmail.com 
 
 
 
