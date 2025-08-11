@@ -1,5 +1,5 @@
 ### Olá! Sou o João Paulo 🖐
-- 📚Estou estudando Python
+- 📚Estou estudando C
 - 📫Email para contato: jpdesenvolvedor21@gmail.com 
 
 
