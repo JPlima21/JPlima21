@@ -1,5 +1,5 @@
 ### Olá! Sou o João Paulo 🖐
-- 📚Estou estudando C
+- 📚Estou estudando JavaScript, HTML, CSS e Docker
 - 📫Email para contato: jpdesenvolvedor21@gmail.com 
 
 
