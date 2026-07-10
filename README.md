@@ -8,7 +8,7 @@ Sou desenvolvedor em formação, interessado em desenvolvimento web e criação 
 
 ## Tecnologias e ferramentas
 
-[![Tecnologias e ferramentas](https://skillicons.dev/icons?i=html,css,js,py,postgres,docker,vscode,eclipse)](https://skillicons.dev)
+[![Tecnologias e ferramentas](https://skillicons.dev/icons?i=html,css,js,py,mysql,docker,vscode,eclipse)](https://skillicons.dev)
 
 ## Estatísticas do GitHub
 
