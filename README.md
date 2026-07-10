@@ -3,7 +3,6 @@
 Sou desenvolvedor em formação, interessado em desenvolvimento web e criação de soluções com tecnologia.
 
 - 📚 Atualmente estou estudando JavaScript, HTML, CSS e Docker
-- 🐍 Também utilizo Python e PostgreSQL
 - 🚀 Buscando evoluir por meio de projetos práticos
 - 📫 Contato: [jpdesenvolvedor21@gmail.com](mailto:jpdesenvolvedor21@gmail.com)
 
