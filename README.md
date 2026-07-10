@@ -13,9 +13,9 @@ Sou desenvolvedor em formação, interessado em desenvolvimento web e criação 
 
 ## Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=JPlima21&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JPlima21&theme=radical)
 
-![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=JPlima21&layout=compact&theme=radical)
+![Linguagens mais utilizadas](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JPlima21&theme=radical)
 
 ## Contato e redes sociais
 
